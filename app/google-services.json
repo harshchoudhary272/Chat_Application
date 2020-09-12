@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123456494390",
+    "firebase_url": "https://chat-application-be2c2.firebaseio.com",
+    "project_id": "chat-application-be2c2",
+    "storage_bucket": "chat-application-be2c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456494390:android:86a56e2c0493658877f197",
+        "android_client_info": {
+          "package_name": "com.example.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123456494390-gb03ecim7drr973csrtof6arbqlhdeo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwACPORPBO_ukhjEPX2yzBbS_k95bm3iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123456494390-gb03ecim7drr973csrtof6arbqlhdeo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
